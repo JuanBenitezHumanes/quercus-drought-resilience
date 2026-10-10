@@ -1,0 +1,14 @@
+# Plot data are not public (see data/README.md)
+data/*
+!data/README.md
+
+# Generated outputs (re-created by the scripts)
+figures/
+results/
+
+# R / editor files
+.Rhistory
+.RData
+.Rproj.user/
+.vscode/
+.DS_Store
